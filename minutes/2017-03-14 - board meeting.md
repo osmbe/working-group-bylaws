@@ -1,4 +1,4 @@
-# 2017-03-24 : Board meeting
+# 2017-03-14 : Board meeting
 
 Board members present (3/3) :
 
