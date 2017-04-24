@@ -3,7 +3,7 @@ Official meeting was closed at 20:00 ;
 
 # Attendees:
 
-B. Abelshausen, J. Beliën, M. Bessières, J. Schouppe, L. Giard, A. Jaillon, Michiel Stas, David Espinosa, Dimitri De Schoutheete, Yannick
+B. Abelshausen, J. Beliën, M. Bessières, J. Schouppe, L. Giard, A. Jaillon, Michiel Stas, David Espinosa, Dimitri De Schoutheete, Yannick Verbelen
 
 # Agenda:
 
