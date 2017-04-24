@@ -1,3 +1,6 @@
+Official meeting started at 19:30 ;
+Official meeting was closed at 20:00 ;
+
 # Attendees:
 
 B. Abelshausen, J. Beliën, M. Bessières, J. Schouppe, L. Giard, A. Jaillon, Michiel Stas, David Espinosa, Dimitri De Schoutheete, Yannick
@@ -28,6 +31,3 @@ Need to "clean" non confirmed email addresses.
 
 For official meetings, we use the members mailing-list to inform them ;
 Official meeting will **always** take place **before** meetups ; we can't mix official meeting with meetup.
-
-Official meeting started at 19:30 ;
-Official meeting was closed at 20:00 ;
