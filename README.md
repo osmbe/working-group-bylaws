@@ -4,4 +4,4 @@ This repository contains simple bylaws, rules, to govern our OSM Belgium working
 
 First version approved on 21/02/2017: 
 
-https://github.com/osmbe/working-group-bylaws/blob/master/CONSITUTION.md
+https://github.com/osmbe/working-group-bylaws/blob/master/CONSTITUTION.md
