@@ -31,7 +31,7 @@ The site also allows to give gifts to sponsors. Ideas :
 There are several interesting proposals, so we can probably fill an entire OSM track.
 - Road mapping 
 - Giacomo/Jo: PT_assistant + Jo: workshop on PT
-- Julien: landuse (Virge?)
+- Julien: landuse
 - Trage Wegen
 - Anyways/mobility + itinero (Ben)
 
