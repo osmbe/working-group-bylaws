@@ -38,3 +38,8 @@ There are several interesting proposals, so we can probably fill an entire OSM t
 We've invited the Open Summer of code people; and both Joost & Jonathan are considering a proposal
 
 Joost will suggest to the team that Dries might do a short introduction of Open Summer of Code
+
+
+## Code of conduct
+
+We talked about a code of conduct for OSM Belgium. This would help resolve conflicts in the community, if ever needed. It would apply to all OSM Be events and channels (twitter, meetup, riot), but exclude the talk-be mailing list since we don't consider we have authority over that. Though there is little explicit need for a CoC right now, having one in place helps a quick solution when something does go wrong.
