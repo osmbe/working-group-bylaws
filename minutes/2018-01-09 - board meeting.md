@@ -10,21 +10,21 @@ Board members present (online) (3/3) :
 
 ### ticketing: who gets community tickets?
 
-- Do speakers get a ticket or not?
+- Do speakers get a ticket or not? THEY DO
 - Promote the event, don't promote the tickets
 - Max 10
 
 ### content: who do we invite, what do we propose ourselves?
 
 - deadline for proposals? 14 januari
-- send an invitation to propose a session to talk-be
+- send an invitation to propose a session to talk-be > DONE JOOST
 - tweet and so on about it too
 - osm track: we need to announce we have one and so on
 - who do we chase?
 
     - Marc Gemis's network or his own work, Fietsersbond
     - Glenn GRB
-    - Trage Wegen > todo Joost (Atlas thing)
+    - Trage Wegen > todo Joost (Atlas thing) > JOOST ASKED
     - OSOC students (TODO Ben: contact brussels mobility teams)
     - les Juliens - landuse debate > todo Joost
 
@@ -55,7 +55,7 @@ Board members present (online) (3/3) :
 
 ### plan some formal activities
 
-- 27/2: road completion mapping workshop at BeCentral > todo Joost, mail Dries
+- 27/2: road completion mapping workshop at BeCentral > todo Joost, mail Dries > JOOST ASKED
 - proposal: road mapping mapper workshop, preferably in several places
 
 ## Other issues
