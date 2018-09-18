@@ -1,6 +1,6 @@
 # 2018-09-17 Board Meeting Agenda
 
-Board members present (online) (3/3) :
+Board members present (3/3) :
 
 * Joost Schouppe
 * Ben Abelshausen
