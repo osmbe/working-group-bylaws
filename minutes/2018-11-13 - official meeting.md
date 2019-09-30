@@ -25,7 +25,7 @@ We will consider the digital vote after the meeting part of the meeting to be ab
 
 However, this low participation rate is a problem. As a solution, we suggested to introduce two membership classes. 
 
-    > Core/voting member
+* Core/voting member
 
     > has voting right
 
@@ -43,7 +43,7 @@ However, this low participation rate is a problem. As a solution, we suggested t
 
     > can speak in the name of OSM-be (with community@osm.be in CC)
 
-    > Regular Member
+* Regular Member
 
     > can't be anonymous
 
