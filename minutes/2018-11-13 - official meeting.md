@@ -1,4 +1,4 @@
-# OSMBE official meeting notes
+# OSMBE official meeting notes - Opavote invitation
 
 ## Present Members
 Joost Schouppe
