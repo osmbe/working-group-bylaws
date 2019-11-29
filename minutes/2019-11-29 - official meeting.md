@@ -10,7 +10,7 @@
 
 - Yearly report + More communication about the "result" of our meetings (Pieter)
 
-- Meetings/Meetups/Mapathons 2020
+- Meetings/Meetups/Mapathons 2020 (Jonathan)
   - 4 mapathons in 2020 (at MSF but not necessarily for MSF): define the dates
   - A meetup every 2 months ?
   - Meetings ?
