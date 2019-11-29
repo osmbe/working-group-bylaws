@@ -1,19 +1,21 @@
 # OSMBE official meeting notes - Opavote invitation
 
 ## Present Members
-Joost Schouppe
-Jonathan Beliën
-Pieter Fiers
-Lionel Giard
-Jean-Pierre Beeckman
-Paul Fontaine
-Colin Broderick
-Yves Fourneau
-Ben Abelshausen
+
+- Joost Schouppe
+- Jonathan Beliën
+- Pieter Fiers
+- Lionel Giard
+- Jean-Pierre Beeckman
+- Paul Fontaine
+- Colin Broderick
+- Yves Fourneau
+- Ben Abelshausen
 
 ## Online participants
-francol6833
-michel55
+
+- francol6833
+- michel55
 
 ## Notes
 
