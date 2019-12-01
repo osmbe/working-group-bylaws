@@ -76,9 +76,6 @@ The board requests people to join, no members candidates. Suggested was to setup
     - discussion of details of the message is in the community room on riot only
     - answers should be reply-to-all
     - do not copy a conversation to other people without permission
-
-### Create a project board on GitHub to organize the things to map coming from the municipalities, ...
-
-
+    - Create a project board on GitHub to organize the things to map coming from the municipalities, ...
 
 *Meeting adjourned at 20:09*
