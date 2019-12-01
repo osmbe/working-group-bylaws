@@ -81,4 +81,4 @@ The board requests people to join, no members candidates. Suggested was to setup
 
 
 
-*Meeting adjourned at 20:09 *
+*Meeting adjourned at 20:09*
