@@ -19,7 +19,7 @@ We want to make sure there's a clear border between what we can do for free vs w
 - software development is by default paid
 - thinking through processes is for free by default; unless it becomes more than a day of work
 
-Open questions (discuss with Dries):
+Open questions (discuss with Dries/OpenKnowledge Belgium):
 - can we pay for this kind of work? Probably through SmartBe or if people can invoice themselves, or perhaps an actual work contract 
 - can we pay for  travel costs etc.?
 - do we need to advertise that this is possible? > perhaps only after we tried this out
