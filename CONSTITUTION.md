@@ -15,7 +15,7 @@ Members are those who wish to help with the mission of the organization. People 
 
 # Board of directors
 
-Elected by members consisting of 3 people. One of the board members will represent OSMbe in the umbrella organization board, if acceptable by the umbrella board. Who, is decided by the 3 elected board members of the organization after each election. Board members, or 'directors' can resign at any time or can be removed at a 'meeting' by majority vote.
+Elected by members, consisting of 3 people. One of the board members will represent OSMbe in the umbrella organization board, if acceptable by the umbrella board. Who, is decided by the 3 elected board members of the organization after each election. Board members, or 'directors' can resign at any time or can be removed at a 'meeting' by majority vote.
 
 
 ## Election
