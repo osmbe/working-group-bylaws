@@ -16,7 +16,7 @@ Accepted unanimously.
 
 ### Board election
 
-The board requests people to join, no members candidates. Suggested was to setup a board primer. The board puts it's candidacy forward again and is accepted by the membership.
+The board requests people to join, no members candidates. Suggested was to setup a board primer. The three current board members (Ben Abelshausen, Jonathan Beliën and Joost Schouppe) were all willing to continue on the board. This is accepted by the membership.
 
 ### What do you expect from OSM-BE?
 
