@@ -24,3 +24,4 @@
 | Date       |     | Meeting          |
 | ---------- | :-: | ---------------- |
 | 2022-06-28 | 💬  | Official meeting |
+| 2022-12-20 | 💬  | Official meeting |
