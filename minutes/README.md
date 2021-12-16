@@ -4,10 +4,12 @@
 
 ### 2022
 
-| Date       |     | Meeting          |
-| ---------- | :-: | ---------------- |
-| 2022-12-20 | 💬  | Official meeting |
-| 2022-06-28 | 💬  | Official meeting |
+| Date       |     | Meeting                                      |
+| ---------- | :-: | -------------------------------------------- |
+| 2022-12-20 | 💬  | Official meeting ([collaborative agenda][1]) |
+| 2022-06-28 | 💬  | Official meeting ([collaborative agenda][1]) |
+
+[1]: https://hackmd.io/@jbelien/HkAB2JFcF/edit
 
 ### 2021
 
