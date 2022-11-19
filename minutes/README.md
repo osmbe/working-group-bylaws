@@ -2,14 +2,20 @@
 
 ## Calendar
 
-### 2022
+### 2023
 
 | Date       |     | Meeting                                      |
 | ---------- | :-: | -------------------------------------------- |
-| 2022-12-20 | 💬  | Official meeting ([collaborative agenda][1]) |
-| 2022-06-28 | 💬  | Official meeting ([collaborative agenda][1]) |
+| 2023-01-10 | 💬  | Official meeting ([collaborative agenda][1]) |
 
-[1]: https://hackmd.io/@jbelien/HkAB2JFcF/edit
+[1]: https://hackmd.io/@osmbe/HkAB2JFcF/edit
+
+### 2022
+
+| Date       |   | Meeting                                                |
+| ---------- | - | ------------------------------------------------------ |
+| 2022-05-28 | ❕ | [Board meeting](./2021-05-28%20-%20board%20meeting.md) |
+| 2022-07-01 | ❕ | [Board meeting](./2021-05-28%20-%20board%20meeting.md) |
 
 ### 2021
 
