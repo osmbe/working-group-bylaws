@@ -14,8 +14,8 @@
 
 | Date       |   | Meeting                                                |
 | ---------- | - | ------------------------------------------------------ |
-| 2022-05-28 | ❕ | [Board meeting](./2021-05-28%20-%20board%20meeting.md) |
-| 2022-07-01 | ❕ | [Board meeting](./2021-05-28%20-%20board%20meeting.md) |
+| 2022-11-18 | ❕ | [Board meeting](./2022-11-18%20-%20board%20meeting.md) |
+| 2022-07-01 | ❕ | [Board meeting](./2022-07-01%20-%20board%20meeting.md) |
 
 ### 2021
 
