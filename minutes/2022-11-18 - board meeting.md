@@ -53,7 +53,7 @@
 * Thierry's question: who of the board is doing what exactly? what do we want to do ourselves? what can we or needs to be outsourced?
 
 * OSMbe Microgrants
-    * Work out a framework (see OSMF microgrant ?). Special addition: we only start 
+    * Work out a framework (see OSMF microgrant ?). Special addition: we only start if there's proposals from at least 2 people
     * Ask members ideas on how to organize it or what would they expect from it
 
 * Corporate members:
