@@ -1,21 +1,35 @@
+# OSMBE official meetings (collaborative) agenda
+
+###### tags: `meeting`
+
+Feel free to add any topic you want to be discussed during the next official meeting(s).  
+Please add your name (or username) so we know who to contact if we need more details about the topic.
+There are also some agenda items here already: https://github.com/osmbe/community_planning/milestone/1 . Using Github Issues makes it easier to keep track of our projects.
+
+
+## 2023-01-10
+
 started: 20:05 - finished: 22:15
 
 ### Present
 
-- Thierry Jimenez
-- Joost Schouppe
-- Tim Couwelier
-- Thibault Molleman
-- Julien Minet
-- Erik Beerten
-- Ben Abelshausen
-- Michael Dierick
-- Seppe Santens
+Thierry Jimenez
+Joost Schouppe
+Tim Couwelier
+Thibault Molleman
+Julien Minet
+Erik Beerten
+Ben Abelshausen
+Michael Dierick
+Seppe Santens
 
-Excused: Pieter vdc, Pieter vdv, Jonathan Beliën
+Excused: Pieter vdc, Pieter vdv, Jonathan
 
-## Finances & corporate members
 
+
+- [Last official meeting minutes](https://github.com/osmbe/working-group-bylaws/blob/master/minutes/2021-11-30%20-%20official%20meeting.md).
+
+**Finances & corporate members:**
 - [Update 360°-project](https://hackmd.io/xLSqK1uJSrO1b9Xdfm4Ykw?view)
     - three cameras now, a few spin-offs
     - limits of 360 images: resolution, frequency. Experiment with videos
@@ -29,16 +43,19 @@ Excused: Pieter vdc, Pieter vdv, Jonathan Beliën
     - invoice cycle highways (1500 eur)
     - [Finances document 2022](https://github.com/osmbe/working-group-bylaws/blob/master/financial/2022.md), and [2021](https://github.com/osmbe/working-group-bylaws/blob/master/financial/2021.md)
 
-## Activities
 
+
+**Activities**
 - OSM BE stand @ these events:
    - April: OSM BE @ Open Belgium Conference
    - September: [OSM BE @ Trefdag Digitaal Vlaanderen](https://hackmd.io/_zXEeOfsTfSE7dB5g_3UpQ). Paid for by Anyways in return for free corporate membership.
     - November: [State of the Map Belgium & FOSS4G.be](https://hackmd.io/NEXU7TRqQw6Ysi7WkbMqiA?view)
         - question Seppe: are all the videos online that can be online? to be verified
         - financial balance: break-even
+
 - Contacts in 2022
     Hoppin (Vlaamse overheid), Service public de Wallonie (Coordination cellule RAVeL, PICC, CGT(tourism)), Ligue de Braille, Stad Gent, Gemeente Diegem, Visit Brussels, Nationaal Park Hoge Kempen, Fédération du Tourisme de la Province de Liège, Ville de Liège, ad hoc individuals, ...
+
 - Newsletter after a more active year: 
     - 3 editions, 40% open rate, 9% click rate
     - 868 subscribers, 19 new subscribers since the button was made more visible in Oct 2022 (rest of 2022: just 7!)
@@ -46,8 +63,8 @@ Excused: Pieter vdc, Pieter vdv, Jonathan Beliën
     - maybe pay for this as well? Maybe Champs-Libres (Julien Fastré) can help out with this as well
 - several physical meet ups: Brussels, Ghent, Bruges, Arlon, ...
 
-## Projects status
 
+**Projects status**
 - Traffic sign project
 - MapComplete: 
     - [Statistics on pictures created with MapComplete](https://www.openstreetmap.org/user/Pieter%20Vander%20Vennet/diary/400716) 
@@ -64,19 +81,23 @@ because we don't have a paid person to organize the event
     - somewhere in Ardennes close to German border
     - framadate survey will be sent out to fix a date
 
-### Spending opportunities?
-
+Spending opportunities?
 - Building/address import tool: Glenn remains MIA
     - suggestion: suggest to ask if he's willing to do it as a consultant
 - [microgrants project?](https://github.com/osmbe/community_planning/issues/43)
 - start giving more volunteer fees
     - for volunteering / transport during events
     - suggestion: for taking streetlevel images of areas we define
+
 - [Quarterly projects](https://github.com/osmbe/community_planning/issues/44)
 - ["top mapping tasks"](https://github.com/osmbe/community_planning/issues/42)
+
 
 ## Varia:
 
 * Suggestion from Erik for a project: trage wegen inventory > could be a likely candidate for road completion. 
+
 * Suggestion from Tim: refresh the member's list + pro actively invite members to the official member's meeting
+
 * Proposal: 2 official member meetings per year (instead of 1 too long one) -> next one at the SotM-camp in June or September 2023
+
