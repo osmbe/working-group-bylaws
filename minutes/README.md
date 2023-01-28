@@ -4,9 +4,10 @@
 
 ### 2023
 
-| Date       |     | Meeting                                      |
-| ---------- | :-: | -------------------------------------------- |
-| 2023-01-10 | 💬  | Official meeting ([collaborative agenda][1]) |
+| Date       |     | Meeting                                                      |
+|------------|-:-:-|--------------------------------------------------------------|
+| 2023-01-10 | 💬  | [Official meeting](./2023-01-10%20-%20official%20meeting.md) |
+| 2023-??-?? | 💬  | Official meeting ([collaborative agenda][1])                 |
 
 [1]: https://hackmd.io/@osmbe/HkAB2JFcF/edit
 
