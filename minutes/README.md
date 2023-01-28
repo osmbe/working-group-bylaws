@@ -4,19 +4,19 @@
 
 ### 2023
 
-| Date       |     | Meeting                                                      |
-|------------|-:-:-|--------------------------------------------------------------|
-| 2023-01-10 | 💬  | [Official meeting](./2023-01-10%20-%20official%20meeting.md) |
-| 2023-??-?? | 💬  | Official meeting ([collaborative agenda][1])                 |
+| Date       |   | Meeting                                                      |
+|------------|:-:|--------------------------------------------------------------|
+| 2023-??-?? | 💬| Official meeting ([collaborative agenda][1])                 |
+| 2023-01-10 | 💬| [Official meeting](./2023-01-10%20-%20official%20meeting.md) |
 
 [1]: https://hackmd.io/@osmbe/HkAB2JFcF/edit
 
 ### 2022
 
-| Date       |   | Meeting                                                |
-| ---------- | - | ------------------------------------------------------ |
-| 2022-11-18 | ❕ | [Board meeting](./2022-11-18%20-%20board%20meeting.md) |
-| 2022-07-01 | ❕ | [Board meeting](./2022-07-01%20-%20board%20meeting.md) |
+| Date       |     | Meeting                                                |
+| ---------- | :-: | ------------------------------------------------------ |
+| 2022-11-18 | ❕  | [Board meeting](./2022-11-18%20-%20board%20meeting.md) |
+| 2022-07-01 | ❕  | [Board meeting](./2022-07-01%20-%20board%20meeting.md) |
 
 ### 2021
 
