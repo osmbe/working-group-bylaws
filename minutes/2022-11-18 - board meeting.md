@@ -1,7 +1,7 @@
 * "top mapping task in Belgium": exists now at https://wiki.openstreetmap.org/wiki/WikiProject_Belgium/top_mapping_tasks (or https://tinyurl.com/helpusmap), see also https://github.com/osmbe/community_planning/issues/42
   - [ ] Jonathan: add a link on the projects overview page (see https://github.com/osmbe/website/issues/235)
   - [x] Ask the community for more content
-  - [ ] Joost: Add link to project page on the website in the wiki page
+  - [x] Joost: Add link to project page on the website in the wiki page
 
 
 * Mobilizon test
@@ -21,7 +21,7 @@
     * New BE forum: https://community.openstreetmap.org/c/communities/be/
     * The old forum will close
     * Should we close the mailing list and try to get people to move over?
-      - [ ] First find instructions for how exactly to set up "follow just OSMbe on the community.osm.org website"
+      - [ x ] First find instructions for how exactly to set up "follow just OSMbe on the community.osm.org website"
       - [ ] Then promote it on talk-be & element. OSMbe will not be posting on talk-be. We will remove from osm community index and our website. Do not mention closing entirely yet.
       - [ ] After a year evaluate and perhaps close talk-be
 
