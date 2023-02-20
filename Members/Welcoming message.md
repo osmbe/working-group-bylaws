@@ -20,4 +20,3 @@ Though our most active projects are documented on osm.be and our top mapping tas
 You might also want to subscribe to our quarterly newsletter here: https://members.osm.be/subscribe/newsletter
 
 Welcome on board,
-Joost Schouppe
