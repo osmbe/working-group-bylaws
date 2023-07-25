@@ -1,14 +1,14 @@
 # OpenStreetMap Belgium Corporate members
 
-| Name                | Contact                    | Period        | Amount                                       |
-| ------------------- | -------------------------- | ------------- | -------------------------------------------- |
-| [GEO-6][1]          | Jonathan Beliën            | 07/2021 - ... | 500 EUR + [TileServer](https://tile.osm.be/) |
-| [Anyways][2]        | Ben Abelshausen            | 07/2021 - ... | 1000 EUR                                     |
-| [Champs-Libres][3]  | Julien Minet               | 11/2021 - ... | 1000 EUR                                     |
-| [Visit Flanders][4] | Jos Pyck                   | 12/2021 - ... | 2500 EUR                                     |
-| [RouteYou][5]       | Pascal Brackman            | 02/2022 - ... | 1000 EUR                                     |
-| [TomTom][6]         | Marjan Van de Kauter       | 05/2022 - ... | 2500 EUR                                     |
-| [mapbox][7]         | Marena Smith (Brinkhurst)  | 05/2022 - ... | 2500 EUR                                     |
+| Name                | Contact                    | Period        | Amount                                       | Due date | Payment dates |
+| ------------------- | -------------------------- | ------------- | -------------------------------------------- | -------- | ------------- |
+| [GEO-6][1]          | Jonathan Beliën            | 07/2021 - ... | 500 EUR + [TileServer](https://tile.osm.be/) | 12/2023  | 7/2021; 12/2022 |
+| [Anyways][2]        | Ben Abelshausen            | 07/2021 - ... | 1000 EUR + booth at Trefdag Digitaal Vlaanderen | 10/2023 | 7/2021 |
+| [Champs-Libres][3]  | Julien Minet               | 11/2021 - ... | 1000 EUR                                     | 11/2022  | 11/2021 |
+| [Visit Flanders][4] | Jos Pyck                   | 12/2021 - ... | 2500 EUR                                     | 12/2023  | 12/2021; 6/2022 |
+| [RouteYou][5]       | Pascal Brackman            | 02/2022 - ... | 1000 EUR                                     | 2/2023   | 2/2022 |
+| [TomTom][6]         | Marjan Van de Kauter       | 05/2022 - ... | 2500 EUR                                     | 5/2023   | 5/2022 |
+| [mapbox][7]         | Marena Smith (Brinkhurst)  | 05/2022 - ... | 2500 EUR                                     | 7/2023   | 7/2022 |
 
 [1]:https://geo6.be/
 [2]:https://www.anyways.eu/
