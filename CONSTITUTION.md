@@ -1,4 +1,4 @@
-#Act of incorporation OpenStreetMap Belgium asbl.
+# Act of incorporation OpenStreetMap Belgium asbl.
 
 **Administrative announcements**
 
