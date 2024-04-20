@@ -2,17 +2,20 @@
 
 ## Calendar
 
+### 2024
 
+| Date       |   | Meeting                                                      |
+|------------|:-:|--------------------------------------------------------------|
+| 2024-03-11 | 💬| [Official meeting](./2024-03-11%20-%20official%20meeting.md)         
 
 ### 2023
 
 | Date       |   | Meeting                                                      |
 |------------|:-:|--------------------------------------------------------------|
-| 2023-12-?? | 🗳️  | Board election
-| 2023-??-?? | 💬| Official meeting ([collaborative agenda][1])                 |
+| 2023-09-07 | 💬| [Official meeting](./2023-09-07%20-%20official%20meeting.md)                 |
 | 2023-01-10 | 💬| [Official meeting](./2023-01-10%20-%20official%20meeting.md) |
 
-[1]: https://hackmd.io/@osmbe/HkAB2JFcF/edit
+
 
 ### 2022
 
