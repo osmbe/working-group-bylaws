@@ -1,5 +1,7 @@
 # 2024 03 11: Official OSM BE members meeting
 
+###### tags: `meeting`
+
 ## Participants (14/30)
 
 1. Jonathan Beliën
@@ -109,7 +111,7 @@ Also see https://wiki.openstreetmap.org/wiki/OpenStreetMap_20th_Anniversary_Birt
 
 Open proposal: we still organize the yearly bbq in the afternoon.
 In the morning/noon we could organize a mini physical mapathon announcing the 20th Birthday and we can link it to some of our (open data) requirements as the new governments will be formed at that moment
-Date: Saturday 6 July 2024 (anniversary is on 9th August)
+Date: Saturday 24 August 2024 (anniversary is on 9th August)
 
 It would be good to have a press release as well.
 
