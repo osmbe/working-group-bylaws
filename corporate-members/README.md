@@ -7,7 +7,7 @@
 | [Champs-Libres][3]  | Julien Minet               | 11/2021 - ...     | [TileServer](https://tile.osm.be/)           | 3/2025   | 3/2024 |
 | [Visit Flanders][4] | Jos Pyck                   | 12/2021 - ...     | 2500 EUR                                     | 5/2025   | 5/2024 |
 | [RouteYou][5]       | Pascal Brackman            | 02/2022 - ...     | 1000 EUR                                     | 1/2026   | 12/2024 |
-| [TomTom][6]         | Salim Baidoun              | 05/2022 - ...     | 2500 EUR                                     | 5/2026   | 4/2024 |
+| [TomTom][6]         | Salim Baidoun              | 05/2022 - ...     | 2500 EUR                                     | 5/2026   | 5/2025 |
 | [mapbox][7]         | Marena Smith (Brinkhurst)  | 05/2022 - 12/2023 | 2500 EUR                                     | NA       | 7/2022 |
 | [NCCN](8)           | Tom Droeshout              | 09/2024 - ...     | 2500 EUR                                     | 9/2025   | 9/2024 |
 
