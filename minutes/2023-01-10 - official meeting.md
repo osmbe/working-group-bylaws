@@ -13,15 +13,15 @@ started: 20:05 - finished: 22:15
 
 ### Present
 
-Thierry Jimenez
-Joost Schouppe
-Tim Couwelier
-Thibault Molleman
-Julien Minet
-Erik Beerten
-Ben Abelshausen
-Michael Dierick
-Seppe Santens
+* Thierry Jimenez
+* Joost Schouppe
+* Tim Couwelier
+* Thibault Molleman
+* Julien Minet
+* Erik Beerten
+* Ben Abelshausen
+* Michael Dierick
+* Seppe Santens
 
 Excused: Pieter vdc, Pieter vdv, Jonathan
 
